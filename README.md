@@ -1,6 +1,7 @@
 # Low-Light Image Restoration: Denoising and 4x Super-Resolution
 
-This project was developed for the **IIT Madras Deep Learning (DLP 2026) NPPE3** competition. It implements an iterative deep learning pipeline for restoring and upscaling low-light images from the **RELLISUR dataset**.
+_competetion link: https://www.kaggle.com/competitions/dlp-jan-2026-nppe-3/_
+It implements an iterative deep learning pipeline for restoring and upscaling low-light images from the **RELLISUR dataset**.
 
 ## Project Overview
 
